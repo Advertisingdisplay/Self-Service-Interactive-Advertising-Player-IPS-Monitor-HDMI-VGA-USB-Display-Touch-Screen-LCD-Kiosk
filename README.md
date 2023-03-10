@@ -1,4 +1,5 @@
 # Self-Service-Interactive-Advertising-Player-IPS-Monitor-HDMI-VGA-USB-Display-Touch-Screen-LCD-Kiosk
+![5](https://user-images.githubusercontent.com/117702559/224278451-f63c2467-4c4e-4631-a615-6ed35959bf16.jpg)
 
 # Product Description
 - Floor Stand LCD Display for airport, hotel, Bank, Metro station and so on
