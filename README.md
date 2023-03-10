@@ -9,8 +9,9 @@
 - Metal housing have good heat dissipation effect and tempered glass can protect screen effectively.
 - Supporting connecting WIFI, Ethernet, 4G(option) to achieve different Internet connection access.
 
-
 This is the documentation for products, written by Sales Team of HYY Technology Co.,Ltd.
+
+![564aae214887b83eac467349af1d57c](C:\Users\admin\Desktop\564aae214887b83eac467349af1d57c.png)
 
 
 # Contacts
